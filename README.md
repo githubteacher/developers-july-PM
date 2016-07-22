@@ -15,7 +15,7 @@ Your trainers for today will be:
 
 ### Before we Begin
 
-- Sign up for sign in to an account on GitHub.com
+- Sign up for or sign in to an account on GitHub.com
 - Double check you have installed [Git](https://git-scm.com/)
 
 ### Talk to Us! :comment:
