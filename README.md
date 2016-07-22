@@ -1,7 +1,5 @@
 # GitHub for Developers
 
-[![Join the chat at https://gitter.im/githubteacher/developers-july-PM](https://badges.gitter.im/githubteacher/developers-july-PM.svg)](https://gitter.im/githubteacher/developers-july-PM?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Welcome to the afternoon session of GitHub for Developers. 
 
 ### Facilitators
@@ -22,7 +20,9 @@ Your trainers for today will be:
 
 ### Talk to Us! :comment:
 
-- We have trainers at the ready to answer your questions in Gitter. 
+[![Join the chat at https://gitter.im/githubteacher/developers-july-PM](https://badges.gitter.im/githubteacher/developers-july-PM.svg)](https://gitter.im/githubteacher/developers-july-PM?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+- We have trainers at the ready to answer your questions in Gitter. You can sign in with your GitHub account!
 
 ### Resources
 
