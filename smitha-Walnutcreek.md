@@ -2,6 +2,8 @@
 
 ### Restaurants
 
+Chicks and Love
+
 ### Local Attractions
 
 sanfrancisco city
