@@ -1,8 +1,8 @@
 #Milwaukee, WI
 
 ### Restaurants
-Sobleman's 
+- Sobleman's 
 ### Local Attractions
-Milwaukee Art Museum
+- Milwaukee Art Museum
 ### remote attractions
-Wisconsin Dells
+- Wisconsin Dells
