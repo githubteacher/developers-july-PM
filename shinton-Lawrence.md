@@ -6,7 +6,7 @@
 
 ### Restaurants
 
-[Free State Brewing](http://www.freestatebrewing.com)
+[Free State Brewing](http://www.freestatebrewing.com) - My favorite brewery! :wolf:
 
 ### Local Attractions
 
