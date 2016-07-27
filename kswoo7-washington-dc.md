@@ -7,3 +7,4 @@
 ### Places to visit
 -Smithsonian
 -Washington Monument
+-White House
