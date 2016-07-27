@@ -14,5 +14,5 @@
 
 ### Remote Attractions
 
-- Great :wine_glass:
+- Excellent :wine_glass:
 - OSU
