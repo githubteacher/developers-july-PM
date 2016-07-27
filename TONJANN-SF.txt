@@ -10,4 +10,16 @@
 
 ### Remote Attractions
 
+### SF Neighborhoods
+- Mission District
+- The Castro
+- SoMa
+
+### Cities Nearby
+- Berkeley
+- Marin
+- Daly City
+- Belmont
+- Burlingame 
+
 
