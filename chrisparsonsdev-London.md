@@ -2,6 +2,8 @@
 
 ### Restaurants
 
+- Duck & Waffle :hatched_chick:
+
 ### Local Attractions
 
 - London Eye
