@@ -4,5 +4,8 @@
 
 ### Local Attractions
 
+- Cerro de la Silla 
+- Fundidora
+
 ### Remote Attractions
 
