@@ -4,4 +4,7 @@
 
  ### Local Attraction
 
+ - Red Light District :)
+ - Sex Musium :))
+
  ### Remote Attraction
