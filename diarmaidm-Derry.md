@@ -2,6 +2,8 @@
 [Location on Map](https://www.google.com/maps/d/viewer?mid=1b59aw1eXLd6wxCcnrtmy-UWRAak)
 
 ### Restaurants
+- Exchange
+- [Walled City Brewery](http://www.walledcitybrewery.com/)
 
 ### Local Attractions
 
