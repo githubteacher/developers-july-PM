@@ -1,7 +1,7 @@
 # Sacramento, CA
 
 ### Restaurants
-- Shoki Ramen House
+- Shoki Ramen House (Recommended dish: Tan Tan Men)
 - Raku Sushi
 - India Oven
 
