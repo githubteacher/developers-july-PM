@@ -10,5 +10,4 @@
 
 - Stanley Park
 - Science World
-- Grouse Mountain
-
+- Lynn Canyon
