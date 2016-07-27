@@ -8,7 +8,7 @@
 ### Local Attractions
 
 - The Walls
-- The Quiet Man Whiskey (I have to find an off licence (liquer store) that stocks it in Derry)
+- [The Quiet Man Whiskey](http://thequietmanirishwhiskey.com/) (I have to find an off licence (liquer store) that stocks it in Derry)
 
 ### Remote Attractions
 
