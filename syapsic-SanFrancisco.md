@@ -8,5 +8,5 @@
 
 ### Restaurants
 
-- El Faro
+- El Faro (good for saving $$)
 
