@@ -2,6 +2,8 @@
 
 ### Restaurants
 
+- Thurman's :hamburger:
+
 ### Local Attractions
 
 - Ohio State Buckeyes
