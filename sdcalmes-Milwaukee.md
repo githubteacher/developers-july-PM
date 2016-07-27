@@ -4,4 +4,6 @@
 
 ### Local Attractions
 
+	- Miller Park
+
 ### Remote Attractions
