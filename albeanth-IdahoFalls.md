@@ -4,4 +4,7 @@
 
 ### Local Attractions
 
+- Hiking
+- Fishing
+
 ### Remote Attractions
