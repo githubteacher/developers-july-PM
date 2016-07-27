@@ -3,6 +3,7 @@
 ### Restaurants
 
 Thirsty Moose
+Shorty's
 
 ### Local Attractions
 
