@@ -5,4 +5,7 @@
 
 ### Local Attractions
 
+- The Bean
+- Au Cheval
+
 ### Remote Attractions
