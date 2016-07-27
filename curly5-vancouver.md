@@ -2,6 +2,13 @@
 
 ### Restaurants
 
+- Vij's
+- Nook
+- MacKenzie Room
+
 ### Local Attractions
 
-### Remote Attractions
+- Stanley Park
+- Science World
+- Grouse Mountain
+
