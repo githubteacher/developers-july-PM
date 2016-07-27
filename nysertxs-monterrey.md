@@ -2,10 +2,15 @@
 
 ### Restaurants
 
+- any street taco vendor is great for tacos
+
 ### Local Attractions
 
 - Cerro de la Silla 
 - Fundidora
 
-### Remote Attractions
+### WoW places to play
 
+- Tec library
+
+### Remote Attractions
