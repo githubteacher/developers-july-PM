@@ -1,7 +1,10 @@
 # Brookings, SD
 
-### Restaraunts - lots of fast food
+### Restaraunts 
+	- lots of fast food
 
-### Local Attractions - besides SDSU, there is absoutely nothing
+### Local Attractions 
+	- besides SDSU, there is absoutely nothing
 
-### Remote Attractions - nothing
+### Remote Attractions 
+	- nothing
