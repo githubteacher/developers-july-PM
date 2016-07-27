@@ -3,6 +3,9 @@
 ### Resturants
 
   - Ned's Pizza
+  - Texas Roadhouse
+  - Maria's Pizza
+  - Cantennese House
 
 ### Local Attractions
 
