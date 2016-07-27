@@ -5,3 +5,6 @@
 Thirsty Moose
 
 ### Local Attractions
+
+Verizon Center
+
