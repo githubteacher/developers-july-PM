@@ -3,5 +3,6 @@
 ### Restaurants
 
 ### Local Attractions
+- Ngong hills
 
 ### Remote Attractions
