@@ -1,4 +1,4 @@
-# Pella
+# Pella, IA
 ### To Do
 
 
