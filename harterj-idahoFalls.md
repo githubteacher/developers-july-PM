@@ -1,12 +1,15 @@
 # Idaho Falls, ID
 
 ### Restaurants
-
+- Krung Thep is a great Thai restaurant
+- Yummi House is very good Chinese
+- It's sort of surprising that a town out this far would have amazing Asian food!
 
 ### Local Attractions
-- Blah blah blah blah banana okay
-- There are a butt load of PokeStops
+- Let's be a little more serious, please.
+- There are a lot of PokeStops
 - A really nice river
-### Remote Attractions
+- Places to fish
+- A very divey bar, where I saw Doug Stanhope last night
 
-### Nice Hikes
+### Remote Attractions
