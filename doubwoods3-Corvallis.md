@@ -2,6 +2,8 @@
 
 ### Restaurants
 
+- brew pubs galore!
+
 ### Local Attractions
 
 - Oregon State University
@@ -13,3 +15,4 @@
 ### Remote Attractions
 
 - Great :wine_glass:
+- OSU
