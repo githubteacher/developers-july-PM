@@ -1,10 +1,11 @@
 # Nashua, NH
 
 ### Restaurants
-Lui Lui
+
 
 ### Local Attractions
-Great farms to pick up some fresh fruits
+- Great local farms
 
 ### Remote Attractions
-Franconia Notch, Flume Gorge
+ - Franconia Notch
+ - Flume Gorge
