@@ -3,6 +3,7 @@
 ### Restaurants
 - Krung Thep is a great Thai restaurant
 - Yummi House is very good Chinese
+- The Snakebite is not to be missed
 - It's sort of surprising that a town out this far would have amazing Asian food!
 
 ### Local Attractions
