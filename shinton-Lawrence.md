@@ -11,6 +11,3 @@
 ### Local Attractions
 
 [Kansas University](http://ku.edu)
-
-### Remote Attractions
-
