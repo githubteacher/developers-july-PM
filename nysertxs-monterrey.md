@@ -7,7 +7,7 @@
 ### Local Attractions
 
 - Cerro de la Silla 
-- Fundidora
+- [Fundidora](http://www.parquefundidora.org/)
 
 ### WoW places to play
 
