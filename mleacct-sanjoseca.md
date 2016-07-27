@@ -3,5 +3,6 @@
 ### Restaurants
 
 ### Local Attractions
+- Great America Theme Park
 
 ### Remote Attractions
