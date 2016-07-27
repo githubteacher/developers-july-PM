@@ -10,3 +10,4 @@
 
 ### Remote Attractions
  - Khotyn Fortress
+ - Other
