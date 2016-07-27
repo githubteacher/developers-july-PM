@@ -4,4 +4,7 @@
 
 ### Local Attractions
 
+- Philadelphia
+- Jersey Shore
+
 ### Remote Attractions
