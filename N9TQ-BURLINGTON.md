@@ -1,7 +1,9 @@
 # BURLINGTON, WI
 
 ### Restaurants
-- The Sly Fox
+- The Sly Fox used to be a good place for a Friday fish fry
+  but has unfortunately closed
+
 - 75th Street Inn Grill
 
 ### Local Attractions
