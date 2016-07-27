@@ -9,5 +9,5 @@
 - Fundidora
 - La Huasteca
 - Santa Lucia
-- PEPE!
+- PEPE
 ### Remote Attractions
