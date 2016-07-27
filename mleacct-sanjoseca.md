@@ -6,3 +6,4 @@
 - Great America Theme Park
 
 ### Remote Attractions
+- SixFlags
