@@ -1,6 +1,8 @@
 # Chicago, IL
 
 ### Restaurants
+- Portillo's. YUMMY HOT DOGS 
+- Uno's :pizza:
 
 ### Local Attractions
 
@@ -8,3 +10,4 @@
 - Smelly Lake Michigan
 
 ### Remote Attractions
+- Milwaukee
