@@ -12,5 +12,9 @@
 
 - Delores park
 - AT&T park
+- Golden Gate Bridge
+- Fisherman's Wharf
+- Pier 39
+- Lombard Street
 
 ### Remote Locations
